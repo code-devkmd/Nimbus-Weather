@@ -1,4 +1,4 @@
-# 🌤 Nimbus — Weather App
+# 🌤 Nimbus — Weather App   
 
 A clean, minimalist weather app built with **React + Vite**.
 
