@@ -20,7 +20,7 @@ A clean, minimalist weather app built with **React + Vite**.
 - Open-Meteo Geocoding API
 
 ## Getting Started
-
+   
 ```bash
 # Install dependencies
 npm install
